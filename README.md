@@ -1,1 +1,1 @@
-# Zachet
+# Razrabotka proramnogo obespechrnia
