@@ -1,1 +1,1 @@
-# Razrabotka proramnogo obespechrnia
+# Razrabotka proramnogo obespechenia
